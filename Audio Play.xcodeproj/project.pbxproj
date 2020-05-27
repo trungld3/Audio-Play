@@ -13,6 +13,7 @@
 		51D6934D247E2F19003546F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51D6934B247E2F19003546F7 /* Main.storyboard */; };
 		51D6934F247E2F1A003546F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51D6934E247E2F1A003546F7 /* Assets.xcassets */; };
 		51D69352247E2F1A003546F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51D69350247E2F1A003546F7 /* LaunchScreen.storyboard */; };
+		51D6935A247E3131003546F7 /* yeulathathu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 51D69359247E3131003546F7 /* yeulathathu.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		51D6934E247E2F1A003546F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51D69351247E2F1A003546F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		51D69353247E2F1A003546F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51D69359247E3131003546F7 /* yeulathathu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yeulathathu.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				51D69345247E2F19003546F7 /* AppDelegate.swift */,
 				51D69347247E2F19003546F7 /* SceneDelegate.swift */,
 				51D69349247E2F19003546F7 /* ViewController.swift */,
+				51D69359247E3131003546F7 /* yeulathathu.mp3 */,
 				51D6934B247E2F19003546F7 /* Main.storyboard */,
 				51D6934E247E2F1A003546F7 /* Assets.xcassets */,
 				51D69350247E2F1A003546F7 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				51D69352247E2F1A003546F7 /* LaunchScreen.storyboard in Resources */,
 				51D6934F247E2F1A003546F7 /* Assets.xcassets in Resources */,
+				51D6935A247E3131003546F7 /* yeulathathu.mp3 in Resources */,
 				51D6934D247E2F19003546F7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
